@@ -1,0 +1,409 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .......navSection Start...... */
+
+.navSection{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    padding: 5px;
+    margin-top: 30px;
+}
+.NavLogo{
+    height: 60px;
+    width: 150px;
+    margin-top: -30px;
+}
+a{
+    text-decoration: none;
+    padding:  5px;
+    font-size: 1.3rem;
+    color: black;
+}
+.LoginBtn{
+    height: 20px;
+    background-color: #54B8FF; ;
+}
+/* .......navSection End...... */
+
+/* <!-- Believe and you can achieve Start..... --> */
+
+.NavMain{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.hero-circle{
+    margin-top: -170px;
+    height: 120px;
+}
+.ApplyNowBtn{
+   width: 160px;
+   height: 40px;
+   border-radius: 10px;
+  background-color: #54B8FF ;
+  border: #54B8FF;
+  margin-top: 20px;
+}
+.hero-square{
+    margin-top: 340px;
+    margin-left: -758px;
+    height: 60px;
+}
+
+.hero-tri{
+    margin-left: -330px;
+    margin-top: -40px;
+}
+.hero-dots{
+    margin-left: -400px;
+    margin-top: -140px;
+    height: 170px;
+    width: 170px;
+}
+
+.penta-circle{
+    margin-left: 400px;
+    margin-top: -500px;
+  
+}
+
+.hero-penta{
+    height: 100px;
+   margin-left: 120px;
+}
+.hero-circle2{
+    margin-top: 160px;
+    height: 100px;
+    margin-left: 100px;
+}
+/* <!-- Believe and you can achieve End..... --> */
+.MiddleSection{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.div1{
+    display: flex;
+    height: 50px;
+    
+}
+.facheck{
+    justify-content: space-between;
+    justify-content: space-around;
+    display: flex;
+    width: 230px;
+    margin-top: 20px;
+    margin-left: 150px;
+    height: 60px;
+    align-items: center;
+    background-color: aliceblue;
+    border-radius:20px ;
+   
+}
+.Hp{
+   
+}
+.div2{
+    margin-top: 100px;
+    width: 300px;
+    height: 300px;  
+    margin-left: -280px;
+    background-color: rgb(248, 246, 242);
+    border: 2px solid rgb(216, 202, 202);
+    position: relative;
+}
+.teacher-png{
+  width: 260px;
+    height: 140px;
+    margin-left: 10px;
+}
+.today{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.JoinNowBtn{
+    background-color:  #367166;
+    border-radius: 5px    ;
+    border: none;
+    height: 20px;
+    width: 80px;
+    
+}
+.TeachersStatistics{
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 235px;
+    background-color: rgb(226, 236, 233);
+    text-align: center;
+    margin-top: -320px;
+    position: absolute;
+}
+.newsletter{
+    height: 180px;
+    width: 150px;
+    margin-left: 270px;
+    margin-top: -180px;
+    position: absolute;
+    z-index: -1;
+}
+.BTN{
+    width: 250px;
+    height: 50px;
+  
+    display: flex;
+    justify-content: space-around;
+    
+}
+    
+.Btn1{
+    background-color: rgb(255, 214, 127);
+    width: 100px;
+}
+.Btn2{
+    background-color: rgb(83, 158, 65);
+    width: 70px;
+}
+
+.hero-plus{
+    width: 170px;
+    margin-left: -200px;
+   margin-top: -20px;
+}
+.heroText{
+    font-size: 2.5rem;
+    margin-left: -450px;
+}
+.heroText1{
+    margin-left: -450px;
+}
+.ReadMoreBtn{
+    margin-left: -450px;
+    margin-top: 30px;
+    padding: 10px;
+    border: none;
+    background-color: none;
+}
+
+
+/* <!-- another part start.... --> */
+.IconPart{
+    display: flex;
+   
+    text-align: center;
+    justify-content: space-between;
+}
+.triPink{
+    margin-left:1260px ;
+    margin-top: -20px;
+}
+.ImgIcon1{
+    width: 300px;
+    
+    height: 220px;
+}
+.ImgIcon1:hover{
+border: 1.5px solid black;
+}
+.ImgIcon2{
+    width: 300px;
+    height: 220px;
+    
+}
+.ImgIcon2:hover{
+    border: 1.5px solid black;
+    }
+.ImgIcon3{
+    width: 300px;
+    height: 220px;
+   
+}
+.ImgIcon3:hover{
+    border: 1.5px solid black;
+    }
+
+    /* <!-- .....Featured Course Start. .... --> */
+.FeaturedCourse{
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.FeaturedImage{
+    display: flex;
+    justify-content: space-between;
+
+}
+.FeaturedImage img{
+    margin-right: 15px;
+}
+
+.Ficon{
+    display: flex;
+    padding: 10px ;
+   
+}
+.Ficon p{
+   margin-left: -10px;
+    margin-right: 13px;
+}
+.Course{
+    margin-top: 50px;
+margin-left: 120px;
+}
+.Fhero-penta{
+    margin-top: -50px;
+    width: 30px;
+}
+    
+.Fhero-circle2{
+    margin-top: 220px;
+}
+
+
+/* <!-- .....Featured Course End. .... --> */
+/* <!-- A quality place for distance learning Start --> */
+
+.QualityPlace{
+display: flex;
+justify-content: space-around;
+
+}
+.Qimg{
+   margin-left: 700px;
+   margin-top: 150px;
+}
+.Qimg1{
+height: 400px;
+width: 300px;
+margin-top: -100px;
+margin-left: -320px;
+position: relative;
+}
+.Qimg2{
+    position: absolute;
+    z-index: -1;
+    margin-left: -220px;
+    margin-top: 65px;
+}
+.Qtext{
+    margin-top: -50px;
+    margin-left: 50px;
+}
+.QBtn{
+    width: 100px;
+    height: 40px;
+    background: #54B8FF;
+    border: none;
+
+}
+.IconLearing{
+    display: flex;
+    justify-content: space-between;
+}
+/* <!-- A quality place for distance learning End --> */
+/* <!-- Subscribe Our NewsletterSubscribe Our Newsletter Start --> */
+
+.BOX{
+    margin-top: 50px;
+    width: 80%;
+    height: 60vh;
+    margin-left: 10%;
+    background-color: #54B8FF;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.BOX2{
+    width: 25%;
+    height: 250px;
+    margin-left: -200px;
+    background-color: #3c94d3;
+    margin-top: 50px;
+    text-align: start;
+position: relative;
+
+}
+.Bnewsletter{
+
+margin-top: -140px;
+position: absolute;
+z-index: -1;
+}
+.BOX3{
+margin-top: 50px;
+}
+
+.BOXBtn{
+    width: 200px;
+  height: 50px;
+ border: none;
+}
+
+.BOXBTN1{
+    width: 150px;
+    height: 50px;
+    
+    border: none;
+    margin-top: 35px;
+}
+
+.BOXBTN2{
+    margin-top: 15px;
+    width: 150px;
+    margin-left: 80px;
+    height: 80px;
+  
+    border: none;
+}
+.BOXBTN3{
+    margin-top: 15px;
+    height: 30px;
+  
+    border: none;
+ 
+}
+
+
+/* <!-- Subscribe Our NewsletterSubscribe Our Newsletter End --> */
+
+
+/* <!-- footer start.... --> */
+
+.footer{
+    margin-top: 100px;
+    display: flex;
+    height: 40vh;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+
+.Group4388{
+height: 120px;
+width: 250px;
+}
+.HIcon{
+    display: flex;
+    
+}
+.iconF{
+   margin-left: 50px;
+  
+}
+
+
+
+
+
+
+/* <!-- footer End.... --> */
